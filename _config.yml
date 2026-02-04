@@ -3,13 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Joana
+middle_name: 
+last_name: Brito
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a PhD student in Computer Science at Instituto Superior Técnico, Universidade de Lisboa (Lisbon, Portugal), co-advised by Professor Joana Campos and Dr. Filipa Correia. I hold an MSc in Biomedical Engineering from TU Wien (Austria) and a BSc in Biomedical Engineering from Instituto Superior Técnico (2018, 2021).
+
+My research sits at the intersection of human–robot interaction and assistive technologies, where I design intelligent systems—such as serious games and human–robot interaction frameworks—to support people with cognitive impairments. I am particularly interested in executive functions, including sustained attention, working memory, and cognitive flexibility. A core motivation behind my work is to move beyond deficit-focused support and instead design technologies that actively foster autonomy, engagement, and self-efficacy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
