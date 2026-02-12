@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:joana.b.brito@tecnico.ulisboa.pt'>Reach me via email</a>. <a href='https://www.inesc-id.pt/'>INESC-ID</a> and <a href='https://tecnico.ulisboa.pt/'>Instituto Superior Técnico</a>, Universidade de Lisboa. 
+subtitle: You can reach me via <a href='mailto:joana.b.brito@tecnico.ulisboa.pt'>email</a>. 
+
+<a href='https://www.inesc-id.pt/'>INESC-ID</a> and <a href='https://tecnico.ulisboa.pt/'>Instituto Superior Técnico</a>, Universidade de Lisboa. 
 
 profile:
   align: right
