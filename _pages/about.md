@@ -6,7 +6,7 @@ subtitle: <a href='mailto:joana.b.brito@tecnico.ulisboa.pt'>Reach me via email</
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: joana.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2N9.9</p>
