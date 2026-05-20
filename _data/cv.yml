@@ -1,10 +1,10 @@
 cv:
   name: Joana Brito
-  label: PhD Student
+  label: PhD Student in Computer Science & Engineering
   email: joana.b.brito@tecnico.ulisboa.pt
   location: Lisbon, Portugal
   image: ""
-  summary: A biomedical engineer turned HRI researcher building intelligent robots and serious games that don’t just assess cognition but empower it.
+  summary: Researcher at GAIPS/INESC-ID working on Human-Robot Interaction, physiological computing, and AI-driven assistive technologies. Currently pursuing a PhD at Instituto Superior Técnico, exploring how social robots can support learning and wellbeing in diverse populations.
 
   social_networks:
     - network: GitHub
@@ -14,142 +14,104 @@ cv:
 
   sections:
     Education:
-      - institution: Vienna University of Technology (TU Wien)
+      - institution: Instituto Superior Técnico, University of Lisbon
+        location: Lisbon, Portugal
+        area: Computer Science and Engineering
+        studyType: PhD
+        start_date: 2023
+        end_date: present
+        highlights:
+          - "Supervised by Prof. Joana Campos (INESC-ID) and Dr. Filipa Correia (ITI/LARSys)."
+
+      - institution: Technische Universität Wien (TU Wien)
         location: Vienna, Austria
-        url: https://www.uzh.ch/
         area: Biomedical Engineering
         studyType: MSc
         start_date: 2018
         end_date: 2021
-        score: 1.4 (Scale: 5 - bad, 1 - excellent)
+        score: "1.47 / 1 (excellent)"
         highlights:
-          - Specialization on Biomedical Signals and Biomedical Instrumentation.
-          - Thesis project titled “Elliptical method for the time-domain quantification of the arterial baroreflex” consisted on the development of a novel image processing algorithm for time-domain
-quantification of the arterial baroreflex from spontaneous pressure fluctuations during orthostatic stress, using ECG and blood pressure waveform.
- 
-      - institution: Technical University of Lisbon (IST - ULisboa)
+          - "Specialization in Biomedical Signals & Instrumentation."
+          - 'Thesis: "Elliptical method for time-domain quantification of the arterial baroreflex."'
+
+      - institution: Instituto Superior Técnico, University of Lisbon
         location: Lisbon, Portugal
-        area: Biomedical Engineer
+        area: Biomedical Engineering
         studyType: BSc
         start_date: 2015
         end_date: 2018
-        score: 16/20
-        highlights: ""
+        score: "16 / 20"
+
+      - institution: University of Ljubljana
+        location: Ljubljana, Slovenia
+        area: Artificial Intelligence
+        studyType: Summer School (ESSAI & ACAI)
+        start_date: 2023
+        end_date: 2023
 
     Experience:
-      - company: INESC-ID
-        position: PhD Researcher & Social Media Team
-        location: Lisbon, Portugal
-        start_date: 2023
-        end_date: present
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: Instituto de Telecomunicações (IT)
+      - company: INESC-ID / Instituto Superior Técnico, ULisboa
         position: Researcher
         location: Lisbon, Portugal
-        start_date: 2022
-        end_date: 2023
+        start_date: 2023-04
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Research in Human-Robot Interaction within the GAIPS group.
+          - Social Media Team — maintaining the department's platforms and organising events.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Instituto de Telecomunicações / Instituto Superior Técnico, ULisboa
+        position: Research Assistant
+        location: Lisbon, Portugal
+        start_date: 2022-02
+        end_date: 2023-03
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Research Fellow on JRC project on Neurosecurity and Experimental Communication.
+
+      - company: Technische Universität Wien
+        position: Research Trainee
+        location: Vienna, Austria
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Developed an elliptical image processing algorithm for arterial baroreflex quantification.
+
+    Teaching:
+      - company: Instituto Superior Técnico, ULisboa
+        position: Teaching Assistant
+        location: Lisbon, Portugal
+        start_date: 2023-11
+        end_date: present
+        highlights:
+          - "Artificial Intelligence (BSc, 2025)."
+          - "Logic for Programming (BSc, 2023–2024)."
 
     Awards:
       - title: Academic Distinction
         date: 2021
-        awarder: TU Wien
-        summary: Awarded upon completion of degree to outstanding students with an average below 1.5
+        awarder: Technische Universität Wien
+        summary: Awarded to outstanding students with a final average below 1.5 (scale 1–5, where 1 is excellent).
 
-      - title: Academic Merit award  
-        date: 2016-2019
-        awarder: IST, ULisboa
-        summary: Awarded yearly to distinguish top 10% of students
-
-    Publications:
-      - title: Unlocking Emotions: The Impact of Robot Question-Asking and Reciprocal Sharing on Self-Disclosure during Emotion Learning
-        authors:
-          - Joana Brito
-          - Anouk Neerincx
-          - Antonio Soares
-          - Haohua Dong
-          - Ana Teresa Antunes
-          - Ana Paiva
-          - Maartje deGraaf
-          - Joana Campos
-        publisher: ACM/IEEE International Conference on Human-Robot Interaction (HRI) 2026
-        releaseDate: In press
-        url: https://humanrobotinteraction.org/2026/
-        summary: We show that a social robot that actively prompts reflection can meaningfully increase children’s emotional self-disclosure and engagement during play, offering design insights for fostering emotional skills through child–robot interaction.
-
-      - title: Assistant Robots with an Agenda foster Uncooperative Behaviors
-        authors:
-          - Joana Brito
-          - Regina de Brito Duarte
-          - Henrique C. Fonseca
-          - Joana Campos
-          - Filipa Correia
-          - Ana Paiva
-        publisher: 2025 25th IEEE international symposium on robot and human interactive communication (RO-MAN)
-        releaseDate: 2025-11-03
-        url: https://ieeexplore.ieee.org/abstract/document/11217891
-        summary: We demonstrate that assistant robots expressing prosocial or self-serving goals can unexpectedly reduce cooperation in a Public Goods Game, revealing how a robot’s perceived motives shape trust, discomfort, and group dynamics.
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Diploma of Academic Merit
+        date: 2018
+        awarder: Instituto Superior Técnico, ULisboa
+        summary: Awarded to top-performing students during the BSc programme (2015–2018).
 
     Languages:
       - name: Portuguese
-        summary: "Native speaker"
+        summary: Native speaker
 
       - name: English
-        summary: "Fluent"
+        summary: "Proficiency (C2) — speaking, reading, writing, listening."
 
     Interests:
       - name: Human-Robot Interaction
-        icon: fa-solid fa-tag
-        keywords: "Human-Robot Interaction, Child-Robot Interaction"
+        icon: fa-solid fa-robot
+        keywords: "Child-Robot Interaction, Social Robotics, Assistive Technologies"
 
-      - name: Human-Computer Interaction
-        icon: fa-solid fa-tag
-        keywords: "Assistive Technologies, Serious Games"
+      - name: Physiological Computing
+        icon: fa-solid fa-heart-pulse
+        keywords: "Biosignals, Affective Computing, Wearable Sensors"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Digital Health & Serious Games
+        icon: fa-solid fa-gamepad
+        keywords: "Neurodevelopmental Disorders, Cognitive Assessment, AI-driven Tools"

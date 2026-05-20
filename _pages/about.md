@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: about
 title: About
-enabled: false
----
+permalink: /
+nav: false
 
-This is the about page for my site.
+latest_posts:
+  enabled: false
+---
