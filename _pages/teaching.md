@@ -10,7 +10,6 @@ nav_order: 6
 {% assign years = courses_by_year | map: 'year' | uniq %}
 
 {% for year in years %}
-
   <h2 class="mt-4">{{ year }}</h2>
   <div class="row row-cols-1 row-cols-md-3">
     {% for course in courses_by_year %}
