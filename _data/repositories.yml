@@ -1,8 +1,10 @@
-github_users:
-  - joanabbrito
+repos:
+  - name: ColourMonsterGame
+    description: A serious game designed to support emotion learning in children through interaction with a social robot.
+    url: https://github.com/joanabbrito/ColourMonsterGame
+    img: repo_colour_monster.png
 
-repo_description_lines_max: 2
-
-github_repos:
-  - joanabbrito/ColourMonsterGame
-  - joanabbrito/promoting-autonomy
+  - name: promoting-autonomy
+    description: Tools and resources for promoting autonomy in users of assistive technologies.
+    url: https://github.com/joanabbrito/promoting-autonomy
+    img: repo_promoting_autonomy.png
