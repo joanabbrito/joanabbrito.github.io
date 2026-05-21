@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [HRI'2026](https://humanrobotinteraction.org/2026/) in Scotland as a Student Volunteer, presented a full paper, and co-organized a workshop — what a week! 🤖🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Spent a great week in Scotland attending [HRI'2026](https://humanrobotinteraction.org/2026/) as a Student Volunteer, presented a full paper and co-organized the WYSD workshop! 🤖🏴󠁧󠁢󠁳󠁣󠁴󠁿

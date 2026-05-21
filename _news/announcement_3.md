@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [EMPOWER EU project](https://www.linkedin.com/company/empower-eu-project/) has officially ended — what a ride! Grateful for the incredible team and everything we built together. 🚀
+The [EMPOWER EU project](https://www.linkedin.com/company/empower-eu-project/) has officially ended — what a ride! 🚀
