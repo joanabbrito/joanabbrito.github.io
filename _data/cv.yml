@@ -76,14 +76,12 @@ cv:
           - Developed an elliptical image processing algorithm for arterial baroreflex quantification.
 
     Teaching:
-      - company: Instituto Superior Técnico, ULisboa
-        position: Teaching Assistant
-        location: Lisbon, Portugal
-        start_date: 2023-11
-        end_date: present
-        highlights:
-          - "Artificial Intelligence (BSc, 2025)."
-          - "Logic for Programming (BSc, 2023–2024)."
+      - label: "Artificial Intelligence (2025–2026)"
+        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
+      - label: "Artificial Intelligence (2024–2025)"
+        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
+      - label: "Logic for Programming (2023–2024)"
+        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
 
     Awards:
       - title: Academic Distinction
