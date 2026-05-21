@@ -1,28 +1,31 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 nav: false
+subtitle: You can reach me via <a href='mailto:joana.b.brito@tecnico.ulisboa.pt'>email</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: joana.jpeg
   image_circular: false
+  more_info: >
+    <p>2N9.9</p>
+    <p><a href='https://share.google/Lvci09UiEk4iDto6J'>IST - Taguspark</a></p>
+    <p>Lisbon, Portugal</p>
 
+selected_papers: true
 social: true
 
 announcements:
   enabled: true
+  scrollable: true
   limit: 5
-
-selected_papers: true
 
 latest_posts:
   enabled: false
 ---
 
-Researcher at the [Group on Artificial Intelligence for People and Society (GAIPS)](https://gaips.inesc-id.pt/), INESC-ID, working in the area of Human-Robot Interaction. I explore the intersection of human-robot interaction, physiological computing, and AI-driven assistive technologies.
+I am a PhD student in Computer Science at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), Universidade de Lisboa (Lisbon, Portugal), co-advised by Professor [Joana Campos](https://gaips.inesc-id.pt/team/joana-campos/) and Dr. [Filipa Correia](https://iti.larsys.pt/member/filipa-correia/). I am also a researcher at [GAIPS](https://gaips.inesc-id.pt/) lab in [INESC-ID](https://www.inesc-id.pt/) institute as well as part of the Social Media Team. I hold an MSc in Biomedical Engineering from [TU Wien](https://www.tuwien.at/) (Austria) and a BSc in Biomedical Engineering from Instituto Superior Técnico (Lisbon) in 2018 and 2021, respectively.
 
-I hold a BSc in Biomedical Engineering from Instituto Superior Técnico (IST), University of Lisbon, and a MSc in Biomedical Engineering from Technische Universität Wien (TU Wien). I am currently pursuing a PhD in Computer Science and Engineering at IST, supervised by [Prof. Joana Campos](https://gaips.inesc-id.pt/component/projects/?task=member&memberID=45) (INESC-ID) and [Dr. Filipa Correia](https://filipacorreia.com/) (ITI/LARSys).
-
-My research aims to push the boundaries of HCI, assistive robotics, and digital health — ensuring technology is empowering for diverse user needs.
+My research sits at the intersection of human–robot interaction and assistive technologies, where I design intelligent systems, such as serious games and human–robot interactions, to support people with cognitive impairments. Particularly, I am interested in executive functions, such as sustained attention, working memory, and cognitive flexibility. A core motivation behind my work is to move beyond deficit-focused support and instead design technologies that actively foster the user's sense of autonomy and engagement.
