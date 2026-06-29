@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [RO-MAN'2025](https://www.ro-man2025.org/) in Eindhoven to present a full paper — always a pleasure to be in the HRI community! 🤖✨
+Attended [RO-MAN'2025](https://www.ro-man2025.org/) in Eindhoven to present a full paper. Always a pleasure to be in the HRI community! 🤖✨
