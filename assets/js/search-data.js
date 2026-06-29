@@ -406,10 +406,10 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-attended-ro-man-2025-in-eindhoven-to-present-a-full-paper-always-a-pleasure-to-be-in-the-hri-community",
-          title: 'Attended RO-MAN’2025 in Eindhoven to present a full paper — always a pleasure...',
+          title: 'Attended RO-MAN’2025 in Eindhoven to present a full paper. Always a pleasure to...',
           description: "",
-          section: "News",},{id: "news-the-empower-eu-project-has-officially-ended-what-a-ride",
-          title: 'The EMPOWER EU project has officially ended — what a ride! 🚀',
+          section: "News",},{id: "news-the-empower-eu-project-just-ended-proud-of-the-last-three-years-and-of-the-team-we-built",
+          title: 'The EMPOWER-EU project just ended! Proud of the last three years and of...',
           description: "",
           section: "News",},{id: "news-spent-a-great-week-in-scotland-attending-hri-2026-as-a-student-volunteer-presented-a-full-paper-and-co-organized-the-wysd-workshop",
           title: 'Spent a great week in Scotland attending HRI’2026 as a Student Volunteer, presented...',
