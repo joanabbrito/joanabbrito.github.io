@@ -16,14 +16,18 @@ nav_order: 6
     {% for course in courses_by_year %}
       {% if course.year == year %}
         <div class="col mb-4">
-          <a href="{{ course.url }}" target="_blank" style="text-decoration: none; color: inherit;">
+          {% if course.url %}
+            <a href="{{ course.url }}" target="_blank" style="text-decoration: none; color: inherit;">
+          {% endif %}
             <div class="card h-100 hoverable">
               <div class="card-body">
                 <h5 class="card-title">{{ course.title }}</h5>
                 <p class="card-text text-muted">Instituto Superior Técnico, ULisboa</p>
               </div>
             </div>
-          </a>
+          {% if course.url %}
+            </a>
+          {% endif %}
         </div>
       {% endif %}
     {% endfor %}

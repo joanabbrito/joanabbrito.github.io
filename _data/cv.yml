@@ -4,7 +4,7 @@ cv:
   email: joana.b.brito@tecnico.ulisboa.pt
   location: Lisbon, Portugal
   image: ""
-  summary: Researcher at GAIPS lab, INESC-ID and PhD student at Instituto Superior Técnico, Universidade de Lisboa. My research sits at the intersection of Human-Robot Interaction and AI-driven assistive technologies, with the goal of designing systems that improve the sense of autonomy of people with cognitive impairments. Beyond research, I teach undergraduate courses in Computer Science and handle the social media communication for the lab. Scientific outreach is something I genuinely care about, and I want to communicate science in a way that actually reaches people.
+  summary: PhD student and researcher at GAIPS (INESC-ID), Instituto Superior Técnico, working on assistive robots that give cognitive support while preserving people's sense of autonomy. My research spans human-robot interaction and assistive technology, with a focus on autonomy, cognitive support, and executive functions. Background in biomedical engineering and physiological computing. Part of the lab's social media team, engaged in science communication to share its research with the public.
 
   social_networks:
     - network: GitHub
@@ -14,14 +14,27 @@ cv:
 
   sections:
     Education:
-      - institution: Instituto Superior Técnico, University of Lisbon
+      - institution: Instituto Superior Técnico, Universidade de Lisboa
         location: Lisbon, Portugal
         area: Computer Science and Engineering
         studyType: PhD
         start_date: 2023
         end_date: present
         highlights:
-          - "Supervised by Prof. Joana Campos (INESC-ID) and Dr. Filipa Correia (ITI/LARSys)."
+          - "Expected completion: December 2027."
+          - "Supervised by Prof. Joana Campos (INESC-ID) and Dr. Filipa Correia (ITI/LARSyS)."
+
+      - institution: University of Grenoble
+        location: France
+        area: Unite! Winter Research School
+        start_date: 2025
+        end_date: 2025
+
+      - institution: University of Ljubljana
+        location: Ljubljana, Slovenia
+        area: Advanced Summer School on Artificial Intelligence (ESSAI & ACAI)
+        start_date: 2023
+        end_date: 2023
 
       - institution: Technische Universität Wien (TU Wien)
         location: Vienna, Austria
@@ -29,12 +42,12 @@ cv:
         studyType: MSc
         start_date: 2018
         end_date: 2021
-        score: "1.47 / 1 (excellent)"
+        score: "1.4 / 5 (excellent; 1 = best)"
         highlights:
-          - "Specialization in Biomedical Signals & Instrumentation."
-          - 'Thesis: "Elliptical method for time-domain quantification of the arterial baroreflex."'
+          - "Major in Biomedical Signals & Instrumentation."
+          - 'Thesis: "Elliptical method for the time-domain quantification of the arterial baroreflex", advised by Prof. Eugenijus Kaniusas and Univ. Ass. Babak Dabiri.'
 
-      - institution: Instituto Superior Técnico, University of Lisbon
+      - institution: Instituto Superior Técnico, Universidade de Lisboa
         location: Lisbon, Portugal
         area: Biomedical Engineering
         studyType: BSc
@@ -42,74 +55,125 @@ cv:
         end_date: 2018
         score: "16 / 20"
 
-      - institution: University of Ljubljana
-        location: Ljubljana, Slovenia
-        area: Artificial Intelligence
-        studyType: Summer School (ESSAI & ACAI)
-        start_date: 2023
-        end_date: 2023
-
     Experience:
-      - company: INESC-ID / Instituto Superior Técnico, ULisboa
+      - company: Group of Artificial Intelligence for People and Society, INESC-ID
         position: Researcher
         location: Lisbon, Portugal
-        start_date: 2023-04
+        start_date: 2023
+        end_date: present
+
+      - company: Instituto Superior Técnico, Universidade de Lisboa
+        position: Teaching Assistant
+        location: Lisbon, Portugal
+        start_date: 2023
         end_date: present
         highlights:
-          - Research in Human-Robot Interaction within the GAIPS group.
-          - Social Media Team — maintaining the department's platforms and organising events.
+          - "Bachelor courses: Logic for Programming (1st year) and Artificial Intelligence (2nd year)."
 
-      - company: Instituto de Telecomunicações / Instituto Superior Técnico, ULisboa
+      - company: Instituto de Telecomunicações
         position: Research Assistant
         location: Lisbon, Portugal
-        start_date: 2022-02
-        end_date: 2023-03
-        highlights:
-          - Research Fellow on JRC project on Neurosecurity and Experimental Communication.
+        start_date: 2022
+        end_date: 2023
 
       - company: Technische Universität Wien
         position: Research Trainee
         location: Vienna, Austria
         start_date: 2019
         end_date: 2021
-        highlights:
-          - Developed an elliptical image processing algorithm for arterial baroreflex quantification.
 
-    Teaching:
-      - label: "Artificial Intelligence (2025-2026)"
-        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
-      - label: "Artificial Intelligence (2024-2025)"
-        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
-      - label: "Logic for Programming (2023-2024)"
-        details: "BSc in Computer Science & Engineering, Instituto Superior Técnico, ULisboa"
+    Publications:
+      - title: "“It Was Me Who Corrected It”: Designing and Evaluating Autonomy-Preserving Robotic Support for Older Adults"
+        publisher: "ACM/IEEE International Conference on Human-Robot Interaction (HRI'27). Under review."
+        summary: "**Brito, J.**; Correia, F.; Campos, J."
+        date: 2027
+
+      - title: "Validating Gameplay as Executive Function Assessment: A Multi-Game Study with Neurodivergent Children"
+        publisher: "ACM CHI Conference on Human Factors in Computing Systems (CHI'27). Under review."
+        summary: "**Brito, J.**; Belbute, M.; Stillwell, D.; et al."
+        date: 2027
+
+      - title: "Unlocking Emotions: The Impact of Robot Question-Asking and Reciprocal Sharing on Self-Disclosure during Emotion Learning"
+        publisher: "ACM/IEEE International Conference on Human-Robot Interaction (HRI'26), Edinburgh, 316–325."
+        summary: "**Brito, J.**; Neerincx, A.; Soares, A.; Dong, H.; Antunes, A. T.; Paiva, A.; de Graaf, M. M. A.; Campos, J. doi:10.1145/3757279.3785562"
+        url: https://doi.org/10.1145/3757279.3785562
+        date: 2026
+
+      - title: "Promoting User Autonomy Through Adaptive Robotic Cognitive Support for Neurodivergent and Aging Populations"
+        publisher: "ACM SIGACCESS Conference on Computers and Accessibility (ASSETS'26), Doctoral Consortium, Porto, Portugal, 25 Oct 2026. Accepted."
+        summary: "**Brito, J.**"
+        date: 2026
+
+      - title: "Workshop YOUR Study Design!"
+        publisher: "ACM/IEEE International Conference on Human-Robot Interaction (HRI): 2026, Edinburgh; 2025, Melbourne; 2024, Boulder, CO (workshop proposals)."
+        summary: "Mohan, M.; **Brito, J.**; Neerincx, A.; et al. (first author in 2025). doi:10.1145/3776734.3793852; doi:10.1109/HRI61500.2025.10973827; doi:10.1145/3610978.3638167"
+        date: 2026
+
+      - title: "Assistant Robots with an Agenda Foster Uncooperative Behaviors"
+        publisher: "2025 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), Eindhoven."
+        summary: "**Brito, J.**; Brito Duarte, R.; Fonseca, H. C. doi:10.1109/RO-MAN63969.2025.11217891"
+        url: https://doi.org/10.1109/RO-MAN63969.2025.11217891
+        date: 2025
+
+      - title: "Social Robotics in Psychological Interventions for Children"
+        publisher: "In Digital Technologies for Learning and Psychological Interventions. Springer Nature."
+        summary: "Neerincx, A.; **Brito, J.**; Couto, M.; Campos, J.; et al. doi:10.1007/978-3-031-76414-1_6"
+        url: https://doi.org/10.1007/978-3-031-76414-1_6
+        date: 2024
+
+      - title: "A Real-World Dataset of Group Emotion Experiences Based on Physiological Data"
+        publisher: "Nature Scientific Data."
+        summary: "Bota, P.; **Brito, J.**; Fred, A.; Cesar, P.; Silva, H. doi:10.1038/s41597-023-02905-6"
+        url: https://doi.org/10.1038/s41597-023-02905-6
+        date: 2024
+
+      - title: "Cardiovagal Baroreflex Hysteresis Using Ellipses in Response to Postural Changes"
+        publisher: "Frontiers in Neuroscience 15:720031."
+        summary: "Dabiri, B.; **Brito, J.**; Kaniusas, E. doi:10.3389/fnins.2021.720031"
+        url: https://doi.org/10.3389/fnins.2021.720031
+        date: 2021
+
+    Funding & Fellowships:
+      - bullet: "**2026–Present** · **PhD Student Fellow – FCT**, *Fundação para a Ciência e para a Tecnologia (2025.01710.BD)*. Design and evaluation of an assistive robot that provides cognitive support through autonomy-supportive interactions rather than task-oriented assistance alone."
+      - bullet: "**2022–2025** · **PhD Student Fellow – EMPOWER**, *European Commission (Horizon Europe, GA 101060918)*. Design and evaluation of technological support tools to empower stakeholders in digital education."
+      - bullet: "**2022–2023** · **Research Fellow – Neurosecurity and Experimental Communication**, *European Commission Joint Research Centre (JRC/IPR/2021/VLVP/3145)*."
+
+    Professional Service:
+      - bullet: "**2026** · Student volunteer, ACM/IEEE International Conference on Human-Robot Interaction (HRI'26, CORE A*), Edinburgh."
+      - bullet: "**2024–2026** · Organizing Committee, Workshop “YOUR Study Design”, ACM/IEEE International Conference on Human-Robot Interaction (HRI'24 in Boulder, CO, HRI'25 in Melbourne, HRI'26 in Edinburgh)."
+      - bullet: "**2025** · Proceedings Chair, Social Media Chair & Student Volunteer Chair, IEEE 2025 Conference on Games (CoG'25, CORE B), Lisbon."
+      - bullet: "**2024** · Student volunteer, 4th TAILOR Conference “Trustworthy AI from Lab to Market”, Lisbon."
+
+    Science Communication & Outreach:
+      - bullet: "**2024–Present** · Social Media Team, Group of Artificial Intelligence for People & Society, INESC-ID: science communication of the lab's research to the public."
 
     Awards:
       - title: Academic Distinction
         date: 2021
         awarder: Technische Universität Wien
-        summary: Awarded to outstanding students with a final average below 1.5 (scale 1–5, where 1 is excellent).
+        summary: Average below 1.5.
 
       - title: Diploma of Academic Merit
         date: 2018
-        awarder: Instituto Superior Técnico, ULisboa
-        summary: Awarded to top-performing students during the BSc programme (2015–2018).
+        awarder: Instituto Superior Técnico, Universidade de Lisboa
+        summary: Top 10% of students, 2015–2018.
 
     Languages:
       - name: Portuguese
-        summary: Native speaker
+        summary: Native
 
       - name: English
-        summary: "Proficiency (C2) — speaking, reading, writing, listening."
+        summary: C1
 
     Interests:
       - name: Human-Robot Interaction
         icon: fa-solid fa-robot
-        keywords: "Child-Robot Interaction, Social Robotics, Assistive Technologies"
+        keywords: "Assistive Robotics, Cognitive Support, Autonomy-Supportive Design, Child-Robot Interaction"
+
+      - name: Digital Health & Serious Games
+        icon: fa-solid fa-gamepad
+        keywords: "Executive Functions, Cognitive Assessment, Behavioral Indicators"
 
       - name: Physiological Computing
         icon: fa-solid fa-heart-pulse
         keywords: "Biosignals, Affective Computing, Wearable Sensors"
-
-      - name: Digital Health & Serious Games
-        icon: fa-solid fa-gamepad
-        keywords: "Neurodevelopmental Disorders, Cognitive Assessment, AI-driven Tools"
